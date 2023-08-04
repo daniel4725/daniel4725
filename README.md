@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm daniel duenias</h1>
+<h1 align="center">Hi 👋, I'm Daniel</h1>
 
 - 👨‍🎓 M.Sc. Electrical & Computer Engineering, Ben-Gurion University - **research in the field of medical computer vision**
 - 🌱 I’m generaly interested in **the topic of machine perception and decision making**
